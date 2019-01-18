@@ -12,6 +12,10 @@ int main(int argc, char **argv) {
 
   printf("Andrew!\n");
   printf("Computer Science and Classical Languages\n");
+  printf("Max Khilou!\n Computer Science.");
+  
+
+  
   
   return 0;
 }
